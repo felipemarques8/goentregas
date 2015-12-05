@@ -126,6 +126,7 @@ return array(
         'Way\Generators\GeneratorsServiceProvider',
         'Raahul\LarryFour\LarryFourServiceProvider',
         'Davibennun\LaravelPushNotification\LaravelPushNotificationServiceProvider',
+        'Intervention\Image\ImageServiceProvider',
 
     ),
 
